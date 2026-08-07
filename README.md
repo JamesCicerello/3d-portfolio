@@ -142,4 +142,4 @@ Audio assets sourced from the [Freesound](https://freesound.org/) community.
 **James Cicerello**
 Computer Science Student 
 
-[LinkedIn](www.linkedin.com/in/james-cicerello-b8246a395)
+[LinkedIn](www.linkedin.com/in/james-cicerello)
